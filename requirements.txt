@@ -1,0 +1,12 @@
+# Core dependencies
+playwright==1.40.0
+pyppeteer-stealth==2.7.4
+requests==2.31.0
+
+# CAPTCHA solvers
+anticaptchaofficial==1.0.56
+2captcha-python==1.2.0
+
+# Utilities
+tqdm==4.66.1
+python-dotenv==1.0.0
